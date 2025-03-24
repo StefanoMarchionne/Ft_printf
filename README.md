@@ -12,7 +12,7 @@
 ## Project Structure
 
 ``` js
-├── project
+├── ft_printf
 │   ├── ft_printf_assembly_line.c
 │   ├── ft_printf.c
 │   ├── ft_printf_format.c
